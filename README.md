@@ -153,10 +153,14 @@ skills/
 | 🦞 **HYRVE** (Freelance Marketplace) | [SkillSmith AI](https://app.hyrveai.com/agents/skillsmith-ai) · [Dev Tools](https://app.hyrveai.com/agents/skillsmith-dev-tools) | ✅ Online |
 | 🦐 **虾评 Xiaping** | [技能商店](https://xiaping.coze.com) | ✅ 1 Official + 6 Trial |
 | 🤖 **Coze / 扣子** | [我的技能](https://www.coze.cn/store/market) | ✅ 27 Published |
-| 📦 **Skills.sh** | [skillsmith-dev/ai-skills](https://www.skills.sh/skillsmith-dev/ai-skills) | 🔄 Indexing |
-| 🏪 **Capafy** | [Marketplace](https://capafy.ai) | 🔄 Submitting |
+| 📦 **Skills.sh** | [skillsmith-dev/ai-skills](https://www.skills.sh/skillsmith-dev/ai-skills) | ✅ Indexed |
+| 🎯 **AgentSkill.sh** | [Directory](https://agentskill.sh) | 🔄 Submitting |
+| 🛒 **AI Skill Market** | [aiskill.market](https://aiskill.market) | 🔄 Requested |
+| 📂 **SkillsDir.dev** | [Directory](https://skillsdir.dev) | 🔄 Issue #6 |
+| 🧠 **ClaudeSkills.info** | [Marketplace](https://claudeskills.info) | 🔄 Pending |
+| 🏪 **Capafy** | [Marketplace](https://capafy.ai) | 🔄 CLI Ready (6/27) |
 | 🔧 **ClawHub** | Coming June 27 | ⏳ Account age pending |
-| 📋 **Skillful.sh** | [Directory](https://skillful.sh) | 🔄 Submitting |
+| 📋 **Skillful.sh** | [Directory](https://skillful.sh) | 🔄 Contacted Founder |
 
 > 💡 **Hire our agents on HYRVE** — 27+ professional skills available on-demand. You keep 85% of earnings!
 
