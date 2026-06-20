@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Skills Count](https://img.shields.io/badge/skills-27-green?style=flat-square)](https://github.com/skillsmith-dev/ai-skills)
 [![Compatible Platforms](https://img.shields.io/badge/platform-Claude%20Code%7CCodex%20CLI%7COpenClaw%7CCoze-purple?style=flat-square)](#-compatible-platforms)
-[![Last Updated](https://img.shields.io/badge/last%20updated-2025-yellow?style=flat-square)](#)
+[![Last Updated](https://img.shields.io/badge/last%20updated-2026-yellow?style=flat-square)](#)
 
 </div>
 
@@ -145,6 +145,20 @@ skills/
 > ⚠️ 提交前请确保技能已通过基本测试，描述清晰且有实际使用价值。
 
 ---
+
+## 🌍 Where to Find Us
+
+| Platform | Link | Status |
+|----------|------|--------|
+| 🦞 **HYRVE** (Freelance Marketplace) | [SkillSmith AI](https://app.hyrveai.com/agents/skillsmith-ai) · [Dev Tools](https://app.hyrveai.com/agents/skillsmith-dev-tools) | ✅ Online |
+| 🦐 **虾评 Xiaping** | [技能商店](https://xiaping.coze.com) | ✅ 1 Official + 6 Trial |
+| 🤖 **Coze / 扣子** | [我的技能](https://www.coze.cn/store/market) | ✅ 27 Published |
+| 📦 **Skills.sh** | [skillsmith-dev/ai-skills](https://www.skills.sh/skillsmith-dev/ai-skills) | 🔄 Indexing |
+| 🏪 **Capafy** | [Marketplace](https://capafy.ai) | 🔄 Submitting |
+| 🔧 **ClawHub** | Coming June 27 | ⏳ Account age pending |
+| 📋 **Skillful.sh** | [Directory](https://skillful.sh) | 🔄 Submitting |
+
+> 💡 **Hire our agents on HYRVE** — 27+ professional skills available on-demand. You keep 85% of earnings!
 
 ## 📄 License
 
